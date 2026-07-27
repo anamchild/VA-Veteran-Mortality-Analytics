@@ -1,5 +1,13 @@
 # VA Veteran Mortality Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+![Health Informatics](https://img.shields.io/badge/Health-Informatics-success)
+
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blueviolet)
+
 ## Overview
 
 This repository contains my Master of Science in Health Informatics Capstone Project, which investigates mortality patterns among U.S. veterans using publicly available data from the U.S. Department of Veterans Affairs.
@@ -129,10 +137,10 @@ VA-Veteran-Mortality-Analytics
 
 ## Repository Contents
 
-•	📊 Data Documentation
-•	📈 Visualizations
+•	📊 Data Documentation(data/)
+•	📈 Visualizations(images/)
 •	📓 Jupyter Notebook
-•	🎤 Capstone Presentation
+•	🎤 Capstone Presentation(presentation/)
 •	📄 Final Report *(to be uploaded)*
 
 
