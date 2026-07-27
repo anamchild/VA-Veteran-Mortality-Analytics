@@ -99,12 +99,14 @@ The project uses:
 
 VA-Veteran-Mortality-Analytics
 
-•	data 
-•	images  
-•	notebooks 
-•	presentation 
-•	report 
-•	README.md
+•data 
+•images  
+•notebooks 
+•presentation 
+•report 
+•README.md
+
+
 
 
 
