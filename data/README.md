@@ -13,7 +13,7 @@ The data provide national-level mortality statistics for U.S. Veterans over a si
 - Recent Veterans Health Administration (VHA) Users
 - Other Veterans
 
----
+
 
 ## Dataset Characteristics
 
@@ -24,7 +24,7 @@ The data provide national-level mortality statistics for U.S. Veterans over a si
 
 The dataset contains annual mortality statistics and Years of Potential Life Lost (YPLL) across multiple causes of death.
 
----
+
 
 ## Variables Included
 
@@ -38,7 +38,7 @@ The dataset includes:
 - Age-Adjusted Mortality Rate
 - Years of Potential Life Lost (YPLL)
 
----
+
 
 ## Data Preparation
 
@@ -50,7 +50,7 @@ The data were:
 - Combined into a single analytical dataset.
 - Prepared for descriptive statistics, comparative analysis, trend analysis, and data visualisation.
 
----
+
 
 ## Data Limitations
 
@@ -62,12 +62,12 @@ Therefore:
 - Regression analysis was not the primary analytical approach.
 - The project focused on descriptive analytics, comparative analysis, longitudinal trend analysis, and Years of Potential Life Lost (YPLL).
 
----
+
 
 ## Original Data Source
 
 U.S. Department of Veterans Affairs.
 
-*National Veteran Suicide Prevention Annual Report: 2024 Data Appendix – All-Cause Mortality (2018–2023)*
+*National Veteran Suicide Prevention Annual Report: 2024 Data Appendix - All- Cause Mortality (2018-2023)*
 https://www.mentalhealth.va.gov/suicide_prevention/
 
