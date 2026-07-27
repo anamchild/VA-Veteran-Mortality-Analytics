@@ -24,11 +24,11 @@ Although chronic diseases remain the leading causes of death, preventable causes
 
 ## Project Objectives
 
-- Compare leading causes of death
-- Analyse mortality trends over time
-- Evaluate premature mortality using Years of Potential Life Lost (YPLL)
-- Compare outcomes between veteran populations
-- Provide evidence-based healthcare recommendations
+•	Compare leading causes of death
+•	Analyse mortality trends over time
+•	Evaluate premature mortality using Years of Potential Life Lost (YPLL)
+•	Compare outcomes between veteran populations
+•	Provide evidence-based healthcare recommendations
 
 
 
@@ -41,17 +41,19 @@ Office of Mental Health and Suicide Prevention
 
 **Dataset**
 
-National Veteran All-Cause Mortality Data Appendix (2018–2023)
+National Veteran All-Cause Mortality Data Appendix (2018-2023)
 
 Dataset includes:
 
-- Six years of mortality data
-- Two veteran populations
-- 51 causes of death
-- Mortality counts
-- Crude mortality rates
-- Age-adjusted mortality rates
-- Years of Potential Life Lost (YPLL)
+•	Six years of mortality data
+•	Two veteran populations
+•	51Causes of death
+•	Mortality counts
+•	Crude mortality rates
+•	Age-adjusted mortality rates
+•	Years of Potential Life Lost (YPLL)
+
+
 
 
 
@@ -61,31 +63,34 @@ Because the dataset contains aggregated population-level statistics, predictive 
 
 The project uses:
 
-- Descriptive Statistics
-- Comparative Analysis
-- Trend Analysis
-- Years of Potential Life Lost (YPLL)
-- Data Visualization
+•	Descriptive Statistics
+•	Comparative Analysis
+•	Trend Analysis
+•	Years of Potential Life Lost (YPLL)
+•	Data Visualization
+
 
 
 
 ## Key Findings
 
-- Heart disease remained the leading cause of death.
-- Cancer produced the greatest Years of Potential Life Lost.
-- Suicide continued to contribute substantially to premature mortality.
-- Recent VHA users experienced consistently higher age-adjusted mortality rates.
-- Both veteran populations demonstrated similar mortality trends over time.
+•	Heart disease remained the leading cause of death.
+•	Cancer produced the greatest Years of Potential Life Lost.
+•	Suicide continued to contribute substantially to premature mortality.
+•	Recent VHA users experienced consistently higher age-adjusted mortality rates.
+•	Both veteran populations demonstrated similar mortality trends over time.
+
+
 
 
 
 ## Business Recommendations
 
-- Continue investment in suicide prevention programmes.
-- Monitor YPLL alongside traditional mortality indicators.
-- Strengthen chronic disease prevention initiatives.
-- Continue population health surveillance.
-- Use healthcare analytics to support evidence-based decision making.
+•	Continue investment in suicide prevention programmes.
+•	Monitor YPLL alongside traditional mortality indicators.
+•	Strengthen chronic disease prevention initiatives.
+•	Continue population health surveillance.
+•	Use healthcare analytics to support evidence-based decision making.
 
 
 
@@ -93,36 +98,42 @@ The project uses:
 
 
 VA-Veteran-Mortality-Analytics
-│
-├── data
-├── images
-├── notebooks
-├── presentation
-├── report
-└── README.md
+
+•	data 
+•	images  
+•	notebooks 
+•	presentation 
+•	report 
+•	README.md
+
+
 
 
 
 
 ## Technologies Used
 
-- Python
-- Google Colab
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Microsoft Excel
+•	Python
+•	Google Colab
+•	Jupyter Notebook
+•	Pandas
+•	NumPy
+•	Matplotlib
+•	Microsoft Excel
+
+
 
 
 
 ## Repository Contents
 
-- 📊 Data Documentation
-- 📈 Visualizations
-- 📓 Jupyter Notebook
-- 🎤 Capstone Presentation
-- 📄 Final Report *(to be uploaded)*
+•	📊 Data Documentation
+•	📈 Visualizations
+•	📓 Jupyter Notebook
+•	🎤 Capstone Presentation
+•	📄 Final Report *(to be uploaded)*
+
+
 
 
 
@@ -130,10 +141,11 @@ VA-Veteran-Mortality-Analytics
 
 Future work may include:
 
-- Interactive Power BI dashboard
-- Geographic mortality visualizations
-- Additional demographic comparisons
-- Expanded healthcare utilization analysis
+•	Interactive Power BI dashboard
+•	Geographic mortality visualizations
+•	Additional demographic comparisons
+•	Expanded healthcare utilization analysis
+
 
 
 
