@@ -9,7 +9,8 @@ The report presents a comprehensive analysis of U.S. veteran mortality patterns 
 
 **Veteran_Mortality_Analytics_Final_Report.pdf** – Final capstone report containing the Executive Summary, methodology, results, data visualizations, business recommendations, conclusions, references, and appendices.
 
-[Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Report.pdf](https://github.com/user-attachments/files/30635436/Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Report.pdf)
+Download the Final Capstone Report (PDF)](Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final
+(https://github.com/user-attachments/files/30635436/Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Report.pdf) 
 
 
 ## Report Highlights
