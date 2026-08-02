@@ -1,3 +1,4 @@
+[Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Reprot.pdf](https://github.com/user-attachments/files/30635412/Improving_Veteran_Healthcare_Through_Mortality_Analytics_Final_Capstone_Reprot.pdf)
 # Final Report
 
 This folder contains the final consulting-style report developed for the Master of Science in Health Informatics Capstone Project at Franklin University.
