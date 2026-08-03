@@ -141,7 +141,7 @@ VA-Veteran-Mortality-Analytics
 •	📈 Visualizations(images/)
 •	📓 Jupyter Notebook
 •	🎤 Capstone Presentation(presentation/)
-•	📄 Final Report *(to be uploaded)*
+•	📄 Final Report 
 
 
 
